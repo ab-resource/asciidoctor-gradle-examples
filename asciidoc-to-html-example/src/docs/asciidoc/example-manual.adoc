@@ -19,7 +19,7 @@ We just haven't decided what that is yet.
 [source,java]
 .Java code from project
 ----
-include::{sourcedir}/example/StringUtils.java[tags=contains,indent=0]
+include::{sourcedir}/example/StringUtils.java[]
 ----
 
 This page was built by the following command:
@@ -29,7 +29,7 @@ This page was built by the following command:
 == Images
 
 [.thumb]
-image::sunset.jpg[scaledwidth=75%]
+image::sunset.jpg[scaledwidth=100%]
 
 == Attributes
 
